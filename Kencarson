@@ -16,7 +16,7 @@ ScriptsSection:NewButton("South Bronx🔪🩸", "south Bronx🔪🩸", function(
     loadstring(game:HttpGet("https://raw.githubusercontent.com/kenhub887/ye/refs/heads/main/sb", true))()
 end)
 
-ScriptsSection:NewButton("Arsenal", "Arsenal🔫", function()
+ScriptsSection:NewButton("Arsenal🔫", "Arsenal🔫", function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/kenhub887/arsenal/refs/heads/main/kenhub', true))()
 end)
 
