@@ -21,8 +21,8 @@ local Window = Rayfield:CreateWindow({
         Note = "To get the key, add ken._.9 on discord",
         FileName = "KENHUB KEY",
         SaveKey = true, -- Key won't be saved permanently
-        GrabKeyFromSite = true,
-        Key = {"https://pastebin.com/raw/ZLg4QR2s"}
+        GrabKeyFromSite = false,
+        Key = {"KENHUBKEY-C1DY21SFGVM1C134LADFC"}
     }
 })
 
