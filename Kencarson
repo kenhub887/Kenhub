@@ -16,8 +16,8 @@ ScriptsSection:NewButton("South Bronx🔪🩸", "south Bronx🔪🩸", function(
     loadstring(game:HttpGet("https://raw.githubusercontent.com/kenhub887/ye/refs/heads/main/sb", true))()
 end)
 
-ScriptsSection:NewButton("Infinite Yield", "Infinite Yield", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source", true))()
+ScriptsSection:NewButton("Arsenal🔫", "Arsenal🔫", function()
+    loadstring(game:HttpGet(https://raw.githubusercontent.com/kenhub887/arsenal/refs/heads/main/kenhub", true))()
 end)
 
 ScriptsSection:NewButton("Remote Spy", "Remote Spy", function()
