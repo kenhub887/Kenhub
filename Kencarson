@@ -24,6 +24,10 @@ ScriptsSection:NewButton("Tower Of Hell🗼", "Tower Of Hell🗼", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/kenhub887/toh/refs/heads/main/KenHub", true))()
 end)
 
+ScriptsSection:NewButton("Zombie Attack🧟‍♂️", "Zombie Attack🧟‍♂️", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/kenhub887/zombieattack/refs/heads/main/kenhub", true))()
+end)
+
 GuiSection:NewKeybind("Toggle GUI", "", Enum.KeyCode.L, function()
 	Library:ToggleUI()
 end)
