@@ -20,8 +20,8 @@ ScriptsSection:NewButton("Arsenal🔫", "Arsenal🔫", function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/kenhub887/arsenal/refs/heads/main/kenhub', true))()
 end)
 
-ScriptsSection:NewButton("Remote Spy", "Remote Spy", function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/bCghX33W", true))()
+ScriptsSection:NewButton("Tower Of Hell🗼", "Tower Of Hell🗼", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/kenhub887/toh/refs/heads/main/KenHub", true))()
 end)
 
 GuiSection:NewKeybind("Toggle GUI", "", Enum.KeyCode.L, function()
